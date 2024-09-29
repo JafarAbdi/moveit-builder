@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-warehouse
+Binary: ros-humble-moveit-ros-warehouse
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.57
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-warehouse - Components of MoveIt connecting to MongoDB
+Changes:
+ ros-humble-moveit-ros-warehouse (2.11.0-2024.09.29.20.57) jammy; urgency=high
+Checksums-Sha1:
+ 0f4b4b9397ac0f978f736c7f242fb131c00699fa 18649584 ros-humble-moveit-ros-warehouse-dbgsym_2.11.0-2024.09.29.20.57_amd64.ddeb
+ 964c63f3198c0fd81b80f820250980233e1457e4 26361 ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.buildinfo
+ 599a7e66cf13fbd64d40814117ee18c59885bfd3 435318 ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.deb
+Checksums-Sha256:
+ 87e70a075adc28d90bc8907228893691567d61cd860633903e64cc321ca4a238 18649584 ros-humble-moveit-ros-warehouse-dbgsym_2.11.0-2024.09.29.20.57_amd64.ddeb
+ bfb10e1b7c86064b9337bcb60297a87abd0753d844d8d2654325776f80378f47 26361 ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.buildinfo
+ a9ac62112f258062136983b0e4f862480f1842593aa62f3890bb68e1de1f975e 435318 ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.deb
+Files:
+ 9c8915521f7f6c6334586cff767cfc25 18649584 debug optional ros-humble-moveit-ros-warehouse-dbgsym_2.11.0-2024.09.29.20.57_amd64.ddeb
+ 28533e1349a7611d7e1a029de24bbc1d 26361 misc optional ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.buildinfo
+ e9c3ca74ede651e78166bab391f89c9b 435318 misc optional ros-humble-moveit-ros-warehouse_2.11.0-2024.09.29.20.57_amd64.deb

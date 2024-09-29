@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-planning-interface
+Binary: ros-humble-moveit-ros-planning-interface
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.21.03
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-planning-interface - Components of MoveIt that offer simpler remote (as from another R
+Changes:
+ ros-humble-moveit-ros-planning-interface (2.11.0-2024.09.29.21.03) jammy; urgency=high
+Checksums-Sha1:
+ 42afa14db5051483bdca5a12ebfc89b151f17b19 9724724 ros-humble-moveit-ros-planning-interface-dbgsym_2.11.0-2024.09.29.21.03_amd64.ddeb
+ 3969b901145baad0a747acc0a93f617efe7b0c2d 34791 ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.buildinfo
+ fe836cb0c7ccad3eec2bcd13d38c2e07b122c17e 269572 ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.deb
+Checksums-Sha256:
+ 63cc73b053aa2bc5b012728233b9caa3adb037f312ead95ce72f2a2ae04e17b9 9724724 ros-humble-moveit-ros-planning-interface-dbgsym_2.11.0-2024.09.29.21.03_amd64.ddeb
+ e8a54e721a348e2f15ea22f481227f6bec732b97f585c92326c84bd0a8170b75 34791 ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.buildinfo
+ 3284d0005708155800901c37bd3db3fc6e4b4d56b027c60ad2787950eb290185 269572 ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.deb
+Files:
+ 4076c098610a6ab5dbb73c7867932b29 9724724 debug optional ros-humble-moveit-ros-planning-interface-dbgsym_2.11.0-2024.09.29.21.03_amd64.ddeb
+ b6996d018b21e6c95cb8183c6042c86d 34791 misc optional ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.buildinfo
+ ff17b7e445e9366f18485ef43e68a992 269572 misc optional ros-humble-moveit-ros-planning-interface_2.11.0-2024.09.29.21.03_amd64.deb

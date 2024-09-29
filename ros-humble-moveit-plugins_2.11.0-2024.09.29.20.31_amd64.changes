@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-plugins
+Binary: ros-humble-moveit-plugins
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.31
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-plugins - Metapackage for MoveIt plugins.
+Changes:
+ ros-humble-moveit-plugins (2.11.0-2024.09.29.20.31) jammy; urgency=high
+Checksums-Sha1:
+ 707e035f19fa1951bb984a3c15cd3a0d8563c4af 9206 ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.buildinfo
+ 944baad7d6fea775e810e3e261539a8a175c5794 6596 ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.deb
+Checksums-Sha256:
+ 7820f594ea8cfb15ed14a0df9eee11e42bba0eaf1865a4d907a926e1cdc75097 9206 ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.buildinfo
+ 26287c45255e97508c28de68463b5ca2c3d2c2d0105523caf08b5a971275ac73 6596 ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.deb
+Files:
+ 009f81f960f32348f63efcf9de5316d3 9206 misc optional ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.buildinfo
+ 1ce9c9f690be486c4c07db9c067f0162 6596 misc optional ros-humble-moveit-plugins_2.11.0-2024.09.29.20.31_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-configs-utils
+Binary: ros-humble-moveit-configs-utils
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.28
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-humble-moveit-configs-utils - Python library for loading moveit config parameters in launch fil
+Changes:
+ ros-humble-moveit-configs-utils (2.11.0-2024.09.29.20.28) jammy; urgency=high
+Checksums-Sha1:
+ a54396cf337cc2d5eeee74f45bf1cc60f7b9dfcf 6659 ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.buildinfo
+ f5a7726badb9c49d7b3d3a5df4202a220c00ea0c 24728 ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.deb
+Checksums-Sha256:
+ 6caefa4b486703eb8bcd09b572721cf7457da735852b8392677d719fee00af3f 6659 ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.buildinfo
+ e5a77163c8cf28c76feaf270b1f128f2dc2b27a51246349828180d61ce3073c2 24728 ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.deb
+Files:
+ 4b37976cb89f9b76cf4ae54dfb1ce89c 6659 misc optional ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.buildinfo
+ e6b44a58099b4e1aa8f746f16ec4a55b 24728 misc optional ros-humble-moveit-configs-utils_2.11.0-2024.09.29.20.28_amd64.deb

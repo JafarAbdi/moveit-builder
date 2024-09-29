@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-servo
+Binary: ros-humble-moveit-servo
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.21.12
+Distribution: jammy
+Urgency: high
+Maintainer: Blake Anderson <blakeanderson@utexas.edu>
+Changed-By: Blake Anderson <blakeanderson@utexas.edu>
+Description:
+ ros-humble-moveit-servo - Provides real-time manipulator Cartesian and joint servoing.
+Changes:
+ ros-humble-moveit-servo (2.11.0-2024.09.29.21.12) jammy; urgency=high
+ .
+   * Support single-element joint limit margins vector and fix joint halting logic for multi-DOF Joints (#2970 <https://github.com/moveit/moveit2/issues/2970>)
+   * Implement realtime Ruckig jerk-limited smoothing (#2956 <https://github.com/moveit/moveit2/issues/2956>)
+   * Ensure the robot state is up-to-date before Servoing (#2954 <https://github.com/moveit/moveit2/issues/2954>)
+   * Correctly load smoothing plugins in Servo integration tests (#2965 <https://github.com/moveit/moveit2/issues/2965>)
+   * Small fixes to flaky MoveIt Servo integration tests (#2962 <https://github.com/moveit/moveit2/issues/2962>)
+   * Tune Servo params so it does not get stuck so easily (#2939 <https://github.com/moveit/moveit2/issues/2939>)
+   * Contributors: AndyZe, Sebastian Castro
+Checksums-Sha1:
+ 188e8d4a1f7f8cee38bc46a29548f41d7677dcc4 30310802 ros-humble-moveit-servo-dbgsym_2.11.0-2024.09.29.21.12_amd64.ddeb
+ fbb81902310068dcf3916574c45aa90dbb1e1fb2 31719 ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.buildinfo
+ d5785704f7402f64f1a74369d48abc7325500a4e 631728 ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.deb
+Checksums-Sha256:
+ a88e7d13cfaca0537119d2d246fe932f1ead9095670245a20e92164f07e14e0c 30310802 ros-humble-moveit-servo-dbgsym_2.11.0-2024.09.29.21.12_amd64.ddeb
+ b62afebae5ca40a9921ad89cbf9519371a865c98ba3682256e4b7802f7ffafd9 31719 ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.buildinfo
+ d3250f86bd50969ee41221837e3fa0bae350278771f1f2e07cf61674476794d5 631728 ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.deb
+Files:
+ 17b9256bbe0c91b1185e6efb02de09a3 30310802 debug optional ros-humble-moveit-servo-dbgsym_2.11.0-2024.09.29.21.12_amd64.ddeb
+ 04536b3919c3a1e27f47e1e472325c8a 31719 misc optional ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.buildinfo
+ 2a23ff87f33cc0392d9439fda4f45423 631728 misc optional ros-humble-moveit-servo_2.11.0-2024.09.29.21.12_amd64.deb

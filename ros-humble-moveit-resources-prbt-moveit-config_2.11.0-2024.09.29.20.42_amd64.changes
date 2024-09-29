@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-resources-prbt-moveit-config
+Binary: ros-humble-moveit-resources-prbt-moveit-config
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.42
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-humble-moveit-resources-prbt-moveit-config - MoveIt Resources for testing: Pilz PRBT 6 A project-internal conf
+Changes:
+ ros-humble-moveit-resources-prbt-moveit-config (2.11.0-2024.09.29.20.42) jammy; urgency=high
+Checksums-Sha1:
+ f7adec1a075ec119539cf1e29d21b2c958a90ec8 9314 ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.buildinfo
+ e0e99b90615818c45eb0b9d142fd55ab965b26f5 14798 ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.deb
+Checksums-Sha256:
+ b9936d7e8340e4209616c613d4d06102698aee55b530050198fb94c12ec6d04f 9314 ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.buildinfo
+ 561f7629e3ca237782e142bb0ce4786f56bdf6077eadc374a619a590e88add84 14798 ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.deb
+Files:
+ f5d9d64e22a17d222226f4451c2391de 9314 misc optional ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.buildinfo
+ dbb8a5367b040cde7e0f5a648a1df600 14798 misc optional ros-humble-moveit-resources-prbt-moveit-config_2.11.0-2024.09.29.20.42_amd64.deb

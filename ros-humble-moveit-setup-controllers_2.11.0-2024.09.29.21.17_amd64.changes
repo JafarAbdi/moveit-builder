@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-setup-controllers
+Binary: ros-humble-moveit-setup-controllers
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.21.17
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-humble-moveit-setup-controllers - MoveIt Setup Steps for ROS 2 Control
+Changes:
+ ros-humble-moveit-setup-controllers (2.11.0-2024.09.29.21.17) jammy; urgency=high
+ .
+   * Fix key duplication in moveit_setup_assistant for FollowJointTrajectory (#2959 <https://github.com/moveit/moveit2/issues/2959>)
+   * Replace deprecated load_yaml with xacro.load_yaml in ros2_control.xacro template (#2934 <https://github.com/moveit/moveit2/issues/2934>)
+   * Remove additional word 'hardware' in Moveit Controllers section of MoveIt Setup Assistant (#2936 <https://github.com/moveit/moveit2/issues/2936>)
+   * Contributors: Chris Schindlbeck
+Checksums-Sha1:
+ c2c87eac5a5e57c5ae4e21af19c2a143bfca036c 11717494 ros-humble-moveit-setup-controllers-dbgsym_2.11.0-2024.09.29.21.17_amd64.ddeb
+ cfac9e199656695e1296a91487c50b2fd39b7fb5 34364 ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.buildinfo
+ d177e3d43aaa6ce68fe04bc7305b0428d6844008 161444 ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.deb
+Checksums-Sha256:
+ 4aca4e55b84c88ad8de7b527b0a1313e111b7e104269e4d842aebdd717cbeb09 11717494 ros-humble-moveit-setup-controllers-dbgsym_2.11.0-2024.09.29.21.17_amd64.ddeb
+ adfd5ec7fef8fabbc4abdb319dc1911921f2dea5f0e5a55253988a43040d1b61 34364 ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.buildinfo
+ e28e45a9d0fe5de33dfcd05920ed3e89f966858c7db9d4c82c87db9a4570efe6 161444 ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.deb
+Files:
+ 839eca00ab569b07934b6ae4b9be3c44 11717494 debug optional ros-humble-moveit-setup-controllers-dbgsym_2.11.0-2024.09.29.21.17_amd64.ddeb
+ 4433ab26d9676de0ed8cb586026dfb59 34364 misc optional ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.buildinfo
+ a7f43493a89727b80d6cc1347594d75f 161444 misc optional ros-humble-moveit-setup-controllers_2.11.0-2024.09.29.21.17_amd64.deb

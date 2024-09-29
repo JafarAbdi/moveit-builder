@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-runtime
+Binary: ros-humble-moveit-runtime
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.21.00
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-runtime - moveit_runtime meta package contains MoveIt packages that are ess
+Changes:
+ ros-humble-moveit-runtime (2.11.0-2024.09.29.21.00) jammy; urgency=high
+Checksums-Sha1:
+ 4175ddd183dbde778f013afa865347462205fb61 9206 ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.buildinfo
+ 0a0e4927026d83452c81f24568357a347c667c69 6612 ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.deb
+Checksums-Sha256:
+ 4a391965037c391b6e268d5cfa11a40923a14161430893982cd1714f1bbdffc6 9206 ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.buildinfo
+ 2d6d6b78c32523510c4f60e6771c75fd46b2a05890146e0217a007c9af650d8b 6612 ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.deb
+Files:
+ 07942ea85fa0e2e134ea5875a2c91c97 9206 misc optional ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.buildinfo
+ 1c235b750c862986efb5106a848bf002 6612 misc optional ros-humble-moveit-runtime_2.11.0-2024.09.29.21.00_amd64.deb

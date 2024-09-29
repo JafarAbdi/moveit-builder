@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-planning
+Binary: ros-humble-moveit-ros-planning
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.46
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-planning - Planning components of MoveIt that use ROS
+Changes:
+ ros-humble-moveit-ros-planning (2.11.0-2024.09.29.20.46) jammy; urgency=high
+Checksums-Sha1:
+ a4ce82951e73dc21111a2cb3508b08ba40829274 67059992 ros-humble-moveit-ros-planning-dbgsym_2.11.0-2024.09.29.20.46_amd64.ddeb
+ 52c5617cb9f79d11e4fac8ea1e285628beae5836 31418 ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.buildinfo
+ 52e5196ffe0df1b1d327d3cf7aa77e84503f73b9 1200532 ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.deb
+Checksums-Sha256:
+ 59aea3a2da6b701aa7326dbc21852c441012f0403d1d69b7b8185a8d7083d368 67059992 ros-humble-moveit-ros-planning-dbgsym_2.11.0-2024.09.29.20.46_amd64.ddeb
+ dfa6e5d383cbec8dedd28dc52d42ba1628811e392b15ed61cb63dc838084a6c6 31418 ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.buildinfo
+ 4d36541ec0551605ff61353090a30ecf99d6c0bb75f8dac1371e24a77ab4c2fc 1200532 ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.deb
+Files:
+ 163322ca16d7fa86faed827b6ef6075e 67059992 debug optional ros-humble-moveit-ros-planning-dbgsym_2.11.0-2024.09.29.20.46_amd64.ddeb
+ 052663ffb2c2c164b17c64a080e882e2 31418 misc optional ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.buildinfo
+ 6cc0e30bc56a9d99db0c55f544c99929 1200532 misc optional ros-humble-moveit-ros-planning_2.11.0-2024.09.29.20.46_amd64.deb

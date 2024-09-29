@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-trajectory-cache
+Binary: ros-humble-moveit-ros-trajectory-cache
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.21.08
+Distribution: jammy
+Urgency: high
+Maintainer: Brandon Ong <methylDragon@intrinsic.ai>
+Changed-By: Brandon Ong <methylDragon@intrinsic.ai>
+Description:
+ ros-humble-moveit-ros-trajectory-cache - A trajectory cache for MoveIt 2 motion plans and cartesian plans.
+Changes:
+ ros-humble-moveit-ros-trajectory-cache (2.11.0-2024.09.29.21.08) jammy; urgency=high
+Checksums-Sha1:
+ 79d61e3d10db6e104f96fb53490f63ba3f65bbe8 2103904 ros-humble-moveit-ros-trajectory-cache-dbgsym_2.11.0-2024.09.29.21.08_amd64.ddeb
+ 0130f4300f225e1919ae0e83f6fd6b0233ab1d90 35514 ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.buildinfo
+ 474af7ac34ddf8ac5e9198c951e4ab6602f453b3 77814 ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.deb
+Checksums-Sha256:
+ 9ac9504da918ed2038a5e7c47ae5b4215238a1284812acfbf9cbbe95f0bdf4ea 2103904 ros-humble-moveit-ros-trajectory-cache-dbgsym_2.11.0-2024.09.29.21.08_amd64.ddeb
+ 21375ac4ece8df1cc84cc000ad585aaf170aec62b4867b6d5efb3e83dc0adf76 35514 ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.buildinfo
+ 6716274dcb4a61f0594dd4303e2eb32fcc8cd4e3215961db1773cba7dfbce0c8 77814 ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.deb
+Files:
+ 0963291306491bf200f4944c65bd7669 2103904 debug optional ros-humble-moveit-ros-trajectory-cache-dbgsym_2.11.0-2024.09.29.21.08_amd64.ddeb
+ 7aa5df55fd6fe025ed6343d294ffcaaa 35514 misc optional ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.buildinfo
+ 99713bf6873b7e3e4fe2b6f6e8cfa534 77814 misc optional ros-humble-moveit-ros-trajectory-cache_2.11.0-2024.09.29.21.08_amd64.deb

@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-resources-prbt-support
+Binary: ros-humble-moveit-resources-prbt-support
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.20.43
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-humble-moveit-resources-prbt-support - Mechanical, kinematic and visual description of the Pilz light we
+Changes:
+ ros-humble-moveit-resources-prbt-support (2.11.0-2024.09.29.20.43) jammy; urgency=high
+Checksums-Sha1:
+ dceb471c1639d90d6e85f17551458581e1209c0e 9287 ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.buildinfo
+ 7c5cd3219e8254b4c83fc99848db3ceb5270f162 791092 ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.deb
+Checksums-Sha256:
+ d97915a85dd16bc1b6256be7ca7b3c54cc671ebe8828a4e3dfefc2f880aa854a 9287 ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.buildinfo
+ 346451a27c9bd7e116991a3c69a1a146e1d130173f2a9c792e45c3902d1d19ec 791092 ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.deb
+Files:
+ f0be26869d36ef383e731b8dde68f041 9287 misc optional ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.buildinfo
+ e9bcd2b60f194d7c5c4c02440ae488c2 791092 misc optional ros-humble-moveit-resources-prbt-support_2.11.0-2024.09.29.20.43_amd64.deb
