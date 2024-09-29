@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-chomp-motion-planner
+Binary: ros-humble-chomp-motion-planner
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.18.35
+Distribution: jammy
+Urgency: high
+Maintainer: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Changed-By: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Description:
+ ros-humble-chomp-motion-planner - chomp_motion_planner
+Changes:
+ ros-humble-chomp-motion-planner (2.11.0-2024.09.29.18.35) jammy; urgency=high
+ .
+   * CHOMP: Fix handling of mimic joints (#3625 <https://github.com/moveit/moveit2/issues/3625>)
+   * Fix CHOMP segfault (#3621 <https://github.com/moveit/moveit2/issues/3621>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 66768979c0b82233cd79d2795fe304f8b17e8828 7011670 ros-humble-chomp-motion-planner-dbgsym_2.11.0-2024.09.29.18.35_amd64.ddeb
+ d3da9cbab6600c54ee2350aa46f532a67cb9ed76 26163 ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.buildinfo
+ 2f628351482489b6fc206e16fcdf73b695e1186a 104184 ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.deb
+Checksums-Sha256:
+ f1210759cdbde16a2ca4eed5341070f50ccf99c27eccefdd342a3d173c3cebeb 7011670 ros-humble-chomp-motion-planner-dbgsym_2.11.0-2024.09.29.18.35_amd64.ddeb
+ 0ffca5fe4a04ffe60900d0f0a7dea386ed39f322ac4df62bfe60eb3cf6d1d9cc 26163 ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.buildinfo
+ 3ea824b08c571040c96ccd0bcd63e825bc21a52897cc1d2fa9c9bbe540f42bcd 104184 ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.deb
+Files:
+ a03d6d27eef25d0268cb56e4e2e9bea1 7011670 debug optional ros-humble-chomp-motion-planner-dbgsym_2.11.0-2024.09.29.18.35_amd64.ddeb
+ d0923a0f6464147cc0c1d6a2eec431f0 26163 misc optional ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.buildinfo
+ fa9d19f1cc39adcc3a388974409814df 104184 misc optional ros-humble-chomp-motion-planner_2.11.0-2024.09.29.18.35_amd64.deb

@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-pilz-industrial-motion-planner-testutils
+Binary: ros-humble-pilz-industrial-motion-planner-testutils
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.20
+Distribution: jammy
+Urgency: high
+Maintainer: Christian Henkel <c.henkel@pilz.de>
+Changed-By: Christian Henkel <c.henkel@pilz.de>
+Description:
+ ros-humble-pilz-industrial-motion-planner-testutils - Helper scripts and functionality to test industrial motion genera
+Changes:
+ ros-humble-pilz-industrial-motion-planner-testutils (2.11.0-2024.09.29.19.20) jammy; urgency=high
+Checksums-Sha1:
+ 861ba3647cd0fb4c2cd302e56ca8716c81b12557 5134284 ros-humble-pilz-industrial-motion-planner-testutils-dbgsym_2.11.0-2024.09.29.19.20_amd64.ddeb
+ bd327f3ae26e690258bd52584c4666bf865f47ef 26343 ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.buildinfo
+ 743a893c343b14085ab23341660b2cefc967aeda 105810 ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.deb
+Checksums-Sha256:
+ 9faa98ed924aa7c6c2ccd80a32dfdcf03576638a5039fb27fb785b4539e4f298 5134284 ros-humble-pilz-industrial-motion-planner-testutils-dbgsym_2.11.0-2024.09.29.19.20_amd64.ddeb
+ 5830222d42ac74877cfd7b36d1295d1f22529caa6991332140377621318c97bd 26343 ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.buildinfo
+ 750a76f4a92ca9584feb4f4cfb5965a331a94fe6c8b8e5726b3dd58111a3c88d 105810 ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.deb
+Files:
+ 2393c22d38d6ddf0f2097f5a2192ead5 5134284 debug optional ros-humble-pilz-industrial-motion-planner-testutils-dbgsym_2.11.0-2024.09.29.19.20_amd64.ddeb
+ 6ae0388ea703af9777c5edd76e450345 26343 misc optional ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.buildinfo
+ acb33e9742847528d4cda30836c064a9 105810 misc optional ros-humble-pilz-industrial-motion-planner-testutils_2.11.0-2024.09.29.19.20_amd64.deb

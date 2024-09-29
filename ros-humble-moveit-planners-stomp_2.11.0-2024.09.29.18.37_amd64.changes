@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-planners-stomp
+Binary: ros-humble-moveit-planners-stomp
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.18.37
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-planners-stomp - STOMP Motion Planner for MoveIt
+Changes:
+ ros-humble-moveit-planners-stomp (2.11.0-2024.09.29.18.37) jammy; urgency=high
+Checksums-Sha1:
+ ecc9463ecf8b6bc75854083f0de9ade7a239d141 5407306 ros-humble-moveit-planners-stomp-dbgsym_2.11.0-2024.09.29.18.37_amd64.ddeb
+ a6d2d43ada49cc89b2267452862147b98c26b503 26224 ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.buildinfo
+ cfb0fdae4ac5c7c86671847b58e558ee617c7d5e 136962 ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.deb
+Checksums-Sha256:
+ b86404b85306b4de74645d967fc12b15dbbccc91ca0a93f5d49add14359596a9 5407306 ros-humble-moveit-planners-stomp-dbgsym_2.11.0-2024.09.29.18.37_amd64.ddeb
+ c9a97260471e935125f8398f9914f7daf15d8c6fbc105929312833f5f31ac82e 26224 ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.buildinfo
+ a093f8f60c900c577f8afb7ef14b14f6a3588370a7e684d4c6e7f09a36c65950 136962 ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.deb
+Files:
+ bc4ac69db70af753f5ffae0b46041b19 5407306 debug optional ros-humble-moveit-planners-stomp-dbgsym_2.11.0-2024.09.29.18.37_amd64.ddeb
+ 37d371f791f171c2502e52bb92218b1c 26224 misc optional ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.buildinfo
+ 2e31e0b55c06802b98ed7144caa6ae7e 136962 misc optional ros-humble-moveit-planners-stomp_2.11.0-2024.09.29.18.37_amd64.deb

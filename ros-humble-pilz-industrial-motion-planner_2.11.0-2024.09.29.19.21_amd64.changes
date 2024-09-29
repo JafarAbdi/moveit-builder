@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-pilz-industrial-motion-planner
+Binary: ros-humble-pilz-industrial-motion-planner
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.21
+Distribution: jammy
+Urgency: high
+Maintainer: Christian Henkel <c.henkel@pilz.de>
+Changed-By: Christian Henkel <c.henkel@pilz.de>
+Description:
+ ros-humble-pilz-industrial-motion-planner - MoveIt plugin to generate industrial trajectories PTP, LIN, CIRC
+Changes:
+ ros-humble-pilz-industrial-motion-planner (2.11.0-2024.09.29.19.21) jammy; urgency=high
+ .
+   * Fix Pilz blending times... the right way (#2961 <https://github.com/moveit/moveit2/issues/2961>)
+   * Deduplicate joint trajectory points in Pilz Move Group Sequence capability (#2943 <https://github.com/moveit/moveit2/issues/2943>)
+   * Contributors: Chris Schindlbeck, Sebastian Castro
+Checksums-Sha1:
+ ae92f47a2e9a936d030b49963bcd39cb27708eca 25063238 ros-humble-pilz-industrial-motion-planner-dbgsym_2.11.0-2024.09.29.19.21_amd64.ddeb
+ 96aecf3f538a1129469eaec47bcec13585e606f4 34852 ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.buildinfo
+ eb963bd6f1c7cfaf94cf752e1fee63bddd2fc5bb 372224 ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.deb
+Checksums-Sha256:
+ b8348d792dfe8a24ba70f4413b50d22b90703072e2a9b62ba0ecf37332e13edd 25063238 ros-humble-pilz-industrial-motion-planner-dbgsym_2.11.0-2024.09.29.19.21_amd64.ddeb
+ 151cc8783e593843054a7d88b5b8a2451da8875ce12de51e481b063458289a6d 34852 ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.buildinfo
+ 7f3148d67694d5a21d4fce97d10fb362233d3fbcfe87c4fa5652df4fac0ee3d4 372224 ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.deb
+Files:
+ 405f15dcbbd056b15cc172065b1cb058 25063238 debug optional ros-humble-pilz-industrial-motion-planner-dbgsym_2.11.0-2024.09.29.19.21_amd64.ddeb
+ 0f1278b063b842cd0ef997d135d89639 34852 misc optional ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.buildinfo
+ bc0618b44a197dc12ded2b5cfc2ca70f 372224 misc optional ros-humble-pilz-industrial-motion-planner_2.11.0-2024.09.29.19.21_amd64.deb

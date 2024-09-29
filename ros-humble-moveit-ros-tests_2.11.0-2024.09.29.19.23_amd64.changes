@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-tests
+Binary: ros-humble-moveit-ros-tests
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.23
+Distribution: jammy
+Urgency: high
+Maintainer: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Changed-By: MoveIt Release Team <moveit_releasers@googlegroups.com>
+Description:
+ ros-humble-moveit-ros-tests - Integration tests for moveit_ros
+Changes:
+ ros-humble-moveit-ros-tests (2.11.0-2024.09.29.19.23) jammy; urgency=high
+Checksums-Sha1:
+ a64368806bb041b36400df90beca7c770ec25070 32881 ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.buildinfo
+ 3b636131695e7dadad62ea3252ca950240d98203 1812 ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.deb
+Checksums-Sha256:
+ d5871d554cfef8a03a2b6673961a83596efd03283f5a1dc69bab91dfd6e8ff73 32881 ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.buildinfo
+ f0bdcb60bc0df1aae2525f73183bbd89081f03983bb202944cd60c44424ad628 1812 ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.deb
+Files:
+ ca6431fc7052563141a8d93a996bd02a 32881 misc optional ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.buildinfo
+ bdad1fd39bf407c6ba23e350e4625ff7 1812 misc optional ros-humble-moveit-ros-tests_2.11.0-2024.09.29.19.23_amd64.deb

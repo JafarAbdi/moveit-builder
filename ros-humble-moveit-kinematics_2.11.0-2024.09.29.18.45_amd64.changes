@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-kinematics
+Binary: ros-humble-moveit-kinematics
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.18.45
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-kinematics - Package for all inverse kinematics solvers in MoveIt
+Changes:
+ ros-humble-moveit-kinematics (2.11.0-2024.09.29.18.45) jammy; urgency=high
+ .
+   * Export the IKFast library correctly (#2999 <https://github.com/moveit/moveit2/issues/2999>)
+   * Use Python3 with IKFast generation script (#2997 <https://github.com/moveit/moveit2/issues/2997>)
+   * Contributors: AndyZe
+Checksums-Sha1:
+ 15b2f69385633b5fde68d8de803a6ebcf8772d02 9050082 ros-humble-moveit-kinematics-dbgsym_2.11.0-2024.09.29.18.45_amd64.ddeb
+ 3bbb7badf689eb78083a9bd27ec75f5f3407215b 31607 ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.buildinfo
+ d07e1f9c8c6257c97855359c359b159731608f19 228920 ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.deb
+Checksums-Sha256:
+ b8281b79de8ae70173ccac915bef0fcdaa3289a97d601448602329601d06af4a 9050082 ros-humble-moveit-kinematics-dbgsym_2.11.0-2024.09.29.18.45_amd64.ddeb
+ 6064bde3b4491007690f4c88751226f8682bc1c23ffdb1970bf5355f63623386 31607 ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.buildinfo
+ 002c67cb1de57e48c40a1445405f844f0487725199dfb76253f624f0656b32cb 228920 ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.deb
+Files:
+ eaefe47b82049ac4971bf22784a6087c 9050082 debug optional ros-humble-moveit-kinematics-dbgsym_2.11.0-2024.09.29.18.45_amd64.ddeb
+ 9677658205d299fe8100d0f752034264 31607 misc optional ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.buildinfo
+ 839836a64b0730ebe29afe409ec31e43 228920 misc optional ros-humble-moveit-kinematics_2.11.0-2024.09.29.18.45_amd64.deb

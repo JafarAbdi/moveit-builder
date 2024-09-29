@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-setup-app-plugins
+Binary: ros-humble-moveit-setup-app-plugins
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.12
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-humble-moveit-setup-app-plugins - Various specialty plugins for MoveIt Setup Assistant
+Changes:
+ ros-humble-moveit-setup-app-plugins (2.11.0-2024.09.29.19.12) jammy; urgency=high
+Checksums-Sha1:
+ a95b80c0b2eee3da1fe5eac3c1714974596549cb 3917290 ros-humble-moveit-setup-app-plugins-dbgsym_2.11.0-2024.09.29.19.12_amd64.ddeb
+ 87b459133628e6e7649bebb37689dd05722abf6d 32971 ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.buildinfo
+ e4e7d6b70dec3cc649f13d5aade6c93817ba8f63 70236 ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.deb
+Checksums-Sha256:
+ 6207b11b0614420611a6c93e7bf5fac78aa572e42eb521bb5a99cb92208b04cd 3917290 ros-humble-moveit-setup-app-plugins-dbgsym_2.11.0-2024.09.29.19.12_amd64.ddeb
+ 85e6484c65c1fe1ac5e7ef32d83ca2008780e947cb6aab0a25ecab50ef659fd3 32971 ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.buildinfo
+ dd06a87ad22893156d811f01e665bf820a4ff3d4d4f200a1362759b7675fccb2 70236 ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.deb
+Files:
+ d1fd6e1d28992a4f378f8df39c3a39a0 3917290 debug optional ros-humble-moveit-setup-app-plugins-dbgsym_2.11.0-2024.09.29.19.12_amd64.ddeb
+ beae9d2d5bc214572e447d2586666096 32971 misc optional ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.buildinfo
+ c81c43a0c29d3c565fac21b80171926b 70236 misc optional ros-humble-moveit-setup-app-plugins_2.11.0-2024.09.29.19.12_amd64.deb

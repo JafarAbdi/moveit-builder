@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-setup-assistant
+Binary: ros-humble-moveit-setup-assistant
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.18
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-setup-assistant - Generates a configuration package that makes it easy to use MoveI
+Changes:
+ ros-humble-moveit-setup-assistant (2.11.0-2024.09.29.19.18) jammy; urgency=high
+Checksums-Sha1:
+ 7d64648a00be10ba33599a1f8b70e79096418047 7600690 ros-humble-moveit-setup-assistant-dbgsym_2.11.0-2024.09.29.19.18_amd64.ddeb
+ 06622e6ac01e38fe0592fe1be413d4371c4b9e33 33958 ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.buildinfo
+ 7313d61f587110b1446185aad5ade5a2240eec40 293352 ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.deb
+Checksums-Sha256:
+ d4e0f267ac21640afe57e661998ebcc9c05a0dc80377e798b2b3c962ff559b8f 7600690 ros-humble-moveit-setup-assistant-dbgsym_2.11.0-2024.09.29.19.18_amd64.ddeb
+ 6538f53965af8cdb31475e186295762e8624bca8687f0c998e60376cc6762519 33958 ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.buildinfo
+ b4d9a80c0b6a4548a3041a5a5a88afb944b95e9bd9f887827c46afcadfeff9c6 293352 ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.deb
+Files:
+ f0d64479e965507ed547e3c3e52b9532 7600690 debug optional ros-humble-moveit-setup-assistant-dbgsym_2.11.0-2024.09.29.19.18_amd64.ddeb
+ df048b5296f2d00a8c44503be2dfaf39 33958 misc optional ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.buildinfo
+ a2ff63ce806fc3045b3dee6a0706c2e9 293352 misc optional ros-humble-moveit-setup-assistant_2.11.0-2024.09.29.19.18_amd64.deb

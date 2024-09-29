@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-py
+Binary: ros-humble-moveit-py
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.19.03
+Distribution: jammy
+Urgency: high
+Maintainer: Peter David Fagan <peterdavidfagan@gmail.com>
+Changed-By: Peter David Fagan <peterdavidfagan@gmail.com>
+Description:
+ ros-humble-moveit-py - Python binding for MoveIt 2
+Changes:
+ ros-humble-moveit-py (2.11.0-2024.09.29.19.03) jammy; urgency=high
+ .
+   * Add python bindings for saving and loading geometry from a .scene file (#2971 <https://github.com/moveit/moveit2/issues/2971>)
+   * Add namespace to MoveitPy (#2884 <https://github.com/moveit/moveit2/issues/2884>)
+   * New planning scene message (#2885 <https://github.com/moveit/moveit2/issues/2885>)
+   * Contributors: Abhiroop Bhavsar, Bilal Gill, Jens Vanhooydonck
+Checksums-Sha1:
+ 8c15fb832bc881d087a56ad7f5e27cd3a89915ae 876174 ros-humble-moveit-py-dbgsym_2.11.0-2024.09.29.19.03_amd64.ddeb
+ 91afa5de9bf97f91ffa58dfcfca1d346d81b046a 26600 ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.buildinfo
+ 74b56af8704ac0b407f9c932a0cd759ca853adb2 339074 ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.deb
+Checksums-Sha256:
+ fbae32a730593f9b360b7b2c47b57ca0cd9793e3a0bcd72c72c69cea3418079e 876174 ros-humble-moveit-py-dbgsym_2.11.0-2024.09.29.19.03_amd64.ddeb
+ e04bedc80fc0f431645e0165e78a19411c958c43b093c777364dd2fa910abef8 26600 ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.buildinfo
+ acf424f1070a24fe59ff602555fc680deb8bed6264e9c5e6593288b94f3cf8f5 339074 ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.deb
+Files:
+ 55344aef7a1f9c655af68f12267e0ca7 876174 debug optional ros-humble-moveit-py-dbgsym_2.11.0-2024.09.29.19.03_amd64.ddeb
+ a73db799f9940ce18f6f2f9a0d1d6e17 26600 misc optional ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.buildinfo
+ 758ad68d752af241605e0c2724f809fa 339074 misc optional ros-humble-moveit-py_2.11.0-2024.09.29.19.03_amd64.deb

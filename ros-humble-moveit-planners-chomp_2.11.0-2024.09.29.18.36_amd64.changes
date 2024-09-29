@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-planners-chomp
+Binary: ros-humble-moveit-planners-chomp
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.18.36
+Distribution: jammy
+Urgency: high
+Maintainer: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Changed-By: Chittaranjan Srinivas Swaminathan <chitt@live.in>
+Description:
+ ros-humble-moveit-planners-chomp - The interface for using CHOMP within MoveIt
+Changes:
+ ros-humble-moveit-planners-chomp (2.11.0-2024.09.29.18.36) jammy; urgency=high
+ .
+   * Fix CHOMP segfault (#3621 <https://github.com/moveit/moveit2/issues/3621>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ acbcd38ba931cc764f19f472d5a10e50f10ae53d 4504424 ros-humble-moveit-planners-chomp-dbgsym_2.11.0-2024.09.29.18.36_amd64.ddeb
+ 081165834b6728ca1d66f11a7e7fc41c7707538e 26231 ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.buildinfo
+ deee0a52be964e92c6dcc31a95bb375e3a397c15 36998 ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.deb
+Checksums-Sha256:
+ 1ca7b62ed419d8793a438ea58a790d328fa2cb450b3abd672faa6b1699a5a410 4504424 ros-humble-moveit-planners-chomp-dbgsym_2.11.0-2024.09.29.18.36_amd64.ddeb
+ d6132f6cad837fd7ac93f89839c29dcba9b1693f8a36ff61ec2e1026400c62ae 26231 ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.buildinfo
+ aba1b0e86e211093aad2fb2d2322fa718f52a886b86c2c3ea303bdb7421a649b 36998 ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.deb
+Files:
+ f6f906a903ab98afc07790a2a7cf9b2d 4504424 debug optional ros-humble-moveit-planners-chomp-dbgsym_2.11.0-2024.09.29.18.36_amd64.ddeb
+ 35baf0bba49d7665aa8f5c83a611ca7b 26231 misc optional ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.buildinfo
+ 7d8bbdd2e799b1c191979c894e42d4bc 36998 misc optional ros-humble-moveit-planners-chomp_2.11.0-2024.09.29.18.36_amd64.deb

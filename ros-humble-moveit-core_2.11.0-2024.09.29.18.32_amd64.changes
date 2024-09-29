@@ -1,0 +1,41 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-core
+Binary: ros-humble-moveit-core
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.18.32
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-core - Core libraries used by MoveIt
+Changes:
+ ros-humble-moveit-core (2.11.0-2024.09.29.18.32) jammy; urgency=high
+ .
+   * Fix RobotState::getRigidlyConnectedParentLinkModel() (#2985 <https://github.com/moveit/moveit2/issues/2985>)
+   * Implement realtime Ruckig jerk-limited smoothing (#2956 <https://github.com/moveit/moveit2/issues/2956>)
+   * New implementation for computeCartesianPath() (#2916 <https://github.com/moveit/moveit2/issues/2916>)
+   * Don't set reset observer callback & set CB after world_ is initialized (#2950 <https://github.com/moveit/moveit2/issues/2950>)
+   * Deduplicate joint trajectory points in Pilz Move Group Sequence capability (#2943 <https://github.com/moveit/moveit2/issues/2943>)
+   * Optimize MOVE_SHAPE operations for FCL (#3601 <https://github.com/moveit/moveit2/issues/3601>)
+   * Allow moving of all shapes of an object in one go (#3599 <https://github.com/moveit/moveit2/issues/3599>)
+   * Silent "empty quaternion" warning from poseMsgToEigen() (#3435 <https://github.com/moveit/moveit2/issues/3435>)
+   * Propagate "clear octomap" actions to monitoring planning scenes (#3134 <https://github.com/moveit/moveit2/issues/3134>)
+   * Copy planning scene predicates in the copy constructor (#2858 <https://github.com/moveit/moveit2/issues/2858>)
+   * PSM: Correctly handle full planning scene message (#3610 <https://github.com/moveit/moveit2/issues/3610>) (#2876 <https://github.com/moveit/moveit2/issues/2876>), fixes #3538 <https://github.com/moveit/moveit2/issues/3538>/#3609 <https://github.com/moveit/moveit2/issues/3609>
+   * Switch to system version of octomap (#2881 <https://github.com/moveit/moveit2/issues/2881>)
+   * Contributors: AndyZe, Captain Yoshi, Chris Lalancette, Chris Schindlbeck, FSund, Gaël Écorchard, Robert Haschke, Sebastian Castro, Sebastian Jahr
+Checksums-Sha1:
+ ab2448832bf0b70bb4eb0a3838cc68abfc9985aa 74031610 ros-humble-moveit-core-dbgsym_2.11.0-2024.09.29.18.32_amd64.ddeb
+ 6a10e04453202cafe1439de27f64651c38a64bfc 30907 ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.buildinfo
+ 3fc30fdda9de765570032788ca17c04889e0db97 1311922 ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.deb
+Checksums-Sha256:
+ 5ba983deaf8ed696ea07e34c4e01f82bc8b645fe45430d70ef31529b98b13e91 74031610 ros-humble-moveit-core-dbgsym_2.11.0-2024.09.29.18.32_amd64.ddeb
+ 87d10baf2ca688448cabde01f6a800544d062b9756f80e7f25f406034da5c1d0 30907 ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.buildinfo
+ 64f1c9843a92c122bc543edbd10b7c2c74cb09f0c3af5993227f77c3f0c1a74d 1311922 ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.deb
+Files:
+ dd3d375d9bf22e3248f959116aff7bcc 74031610 debug optional ros-humble-moveit-core-dbgsym_2.11.0-2024.09.29.18.32_amd64.ddeb
+ 0402d7699be22a7dd1cfd1e66c5a7431 30907 misc optional ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.buildinfo
+ 60d3ee83b92c34272f26a9f402747f63 1311922 misc optional ros-humble-moveit-core_2.11.0-2024.09.29.18.32_amd64.deb
