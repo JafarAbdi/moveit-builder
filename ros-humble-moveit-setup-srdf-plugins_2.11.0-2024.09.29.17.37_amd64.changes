@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-setup-srdf-plugins
+Binary: ros-humble-moveit-setup-srdf-plugins
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.17.37
+Distribution: jammy
+Urgency: high
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Changed-By: David V. Lu!! <davidvlu@gmail.com>
+Description:
+ ros-humble-moveit-setup-srdf-plugins - SRDF-based plugins for MoveIt Setup Assistant
+Changes:
+ ros-humble-moveit-setup-srdf-plugins (2.11.0-2024.09.29.17.37) jammy; urgency=high
+Checksums-Sha1:
+ 15c830166ef6f3b009027bc652e0eb198359d1a7 20025572 ros-humble-moveit-setup-srdf-plugins-dbgsym_2.11.0-2024.09.29.17.37_amd64.ddeb
+ a8e65c7597365f8f681c5278526aef3a122f9030 32709 ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.buildinfo
+ 3ba9cf9bc281dc17f4b35d9490f1acc312307482 310042 ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.deb
+Checksums-Sha256:
+ e823a59eb5a8de920645b5b502af318a8c0897104866b988b0632172a84497c8 20025572 ros-humble-moveit-setup-srdf-plugins-dbgsym_2.11.0-2024.09.29.17.37_amd64.ddeb
+ 38520886260d8052a3ed2ef7944482ec1831c149ed310b7ed17df7a386339336 32709 ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.buildinfo
+ a8c0ba5c6556b217bc1feb0526a206affff56cb2e02ae515167465507eab28cd 310042 ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.deb
+Files:
+ 7ed787f15335cbc8c178c8d3881115d9 20025572 debug optional ros-humble-moveit-setup-srdf-plugins-dbgsym_2.11.0-2024.09.29.17.37_amd64.ddeb
+ 7893a825fff7941db29d86cbbd700d03 32709 misc optional ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.buildinfo
+ 39f682efdc940b7586c4f26e4c61f5c8 310042 misc optional ros-humble-moveit-setup-srdf-plugins_2.11.0-2024.09.29.17.37_amd64.deb

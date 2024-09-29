@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-control-interface
+Binary: ros-humble-moveit-ros-control-interface
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.17.06
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-control-interface - ros_control controller manager interface for MoveIt
+Changes:
+ ros-humble-moveit-ros-control-interface (2.11.0-2024.09.29.17.06) jammy; urgency=high
+Checksums-Sha1:
+ c1abeea10b739cea4478232a768b22965f97617f 3702844 ros-humble-moveit-ros-control-interface-dbgsym_2.11.0-2024.09.29.17.06_amd64.ddeb
+ cc70445609092acce32ea05cdf1a0a5605af6b95 26439 ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.buildinfo
+ e9422bc2eb98a52c5146e4baafd97d7cb5d07c5f 199850 ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.deb
+Checksums-Sha256:
+ 91b603662876cffa47fb9e8a9dca2dd996c5a5efec717a0e5808adad121c1df6 3702844 ros-humble-moveit-ros-control-interface-dbgsym_2.11.0-2024.09.29.17.06_amd64.ddeb
+ 5011ff215ad44a5277882f7f6480c88d3e4525c146aca063dc65321f420f7965 26439 ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.buildinfo
+ 4145fc9c7a2e63efae928d71fab8061f2c848644b0fdbfd976bca70545737a7a 199850 ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.deb
+Files:
+ 8ec436a20c7ea54f34506edd45ff31fc 3702844 debug optional ros-humble-moveit-ros-control-interface-dbgsym_2.11.0-2024.09.29.17.06_amd64.ddeb
+ ad659bcb511a3f33ce2998e017014c95 26439 misc optional ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.buildinfo
+ 51ab0d0d492da6bc55857106b07f7495 199850 misc optional ros-humble-moveit-ros-control-interface_2.11.0-2024.09.29.17.06_amd64.deb

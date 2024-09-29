@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-planners-ompl
+Binary: ros-humble-moveit-planners-ompl
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.16.48
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-planners-ompl - MoveIt interface to OMPL
+Changes:
+ ros-humble-moveit-planners-ompl (2.11.0-2024.09.29.16.48) jammy; urgency=high
+ .
+   * Fix constrained-based planning / PoseModelStateSpace (#2910 <https://github.com/moveit/moveit2/issues/2910>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ d15cb4f3aa6375268dc052f65209cb79a8393e57 23093946 ros-humble-moveit-planners-ompl-dbgsym_2.11.0-2024.09.29.16.48_amd64.ddeb
+ e4eb4ff3559a6f4a1ce005474cfefe8536f8a1de 31792 ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.buildinfo
+ 9022cb3ef8d3c6765de55302036c0914a0943175 342086 ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.deb
+Checksums-Sha256:
+ 8f010081198d4d10266a3d89f404ed491943b43805e9bf3fde4edb4afdb8507a 23093946 ros-humble-moveit-planners-ompl-dbgsym_2.11.0-2024.09.29.16.48_amd64.ddeb
+ 48d3dd89b6c0d25d853246d6510c40d001a3a90b4dc1f2b84b233f98245f6b2b 31792 ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.buildinfo
+ 77da62e64539d079b90bf76635f6a2bc4d7fd26142c09244b8421fc7373efd94 342086 ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.deb
+Files:
+ 5e71bb63460aa1cedd94102929551d08 23093946 debug optional ros-humble-moveit-planners-ompl-dbgsym_2.11.0-2024.09.29.16.48_amd64.ddeb
+ 73556ba793d6093fe051e50273276923 31792 misc optional ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.buildinfo
+ 2130843c4d6b8b8447d2358348876716 342086 misc optional ros-humble-moveit-planners-ompl_2.11.0-2024.09.29.16.48_amd64.deb

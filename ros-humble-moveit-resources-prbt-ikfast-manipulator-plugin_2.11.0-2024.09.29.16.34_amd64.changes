@@ -1,0 +1,27 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin
+Binary: ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.16.34
+Distribution: jammy
+Urgency: high
+Maintainer: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Changed-By: Alexander Gutenkunst <a.gutenkunst@pilz.de>
+Description:
+ ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin - The prbt_ikfast_manipulator_plugin package
+Changes:
+ ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin (2.11.0-2024.09.29.16.34) jammy; urgency=high
+Checksums-Sha1:
+ 1ff5c09c826821a1a7bc89b29c903fae1d8a5b9f 2706834 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_2.11.0-2024.09.29.16.34_amd64.ddeb
+ fa2c895d0e2ddc856da150e123f3b9b8fb175c87 26467 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.buildinfo
+ cf683773fdfacb94b58399106c8742143171b2bc 130606 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.deb
+Checksums-Sha256:
+ dbc6c5da2f64decc25a7a929997ef05a2ac776e0f44d904a6e578e80cc6053d8 2706834 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_2.11.0-2024.09.29.16.34_amd64.ddeb
+ f5523881d94fadae7adb2719350862d633a42488f4bf3e4e46703222f81e08be 26467 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.buildinfo
+ 2b7871fa90498cb136733b1e248e788db0f54edee5be925777a47abcef974f2d 130606 ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.deb
+Files:
+ 4bfa40f0b37a9f1bbc1c448b3bcb49bf 2706834 debug optional ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin-dbgsym_2.11.0-2024.09.29.16.34_amd64.ddeb
+ 5571bd6d773f570d69627b28eba5a73b 26467 misc optional ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.buildinfo
+ b0e9def0d1b70e3ecc85b90b391e63dc 130606 misc optional ros-humble-moveit-resources-prbt-ikfast-manipulator-plugin_2.11.0-2024.09.29.16.34_amd64.deb

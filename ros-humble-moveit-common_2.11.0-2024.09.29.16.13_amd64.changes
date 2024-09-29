@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-common
+Binary: ros-humble-moveit-common
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.16.13
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-common - Common support functionality used throughout MoveIt
+Changes:
+ ros-humble-moveit-common (2.11.0-2024.09.29.16.13) jammy; urgency=high
+Checksums-Sha1:
+ 0d15cb8176822e45b2e4279df65bd87af96adc29 9396 ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ 5292c82e647da721f38808a674a04a200a596e60 8922 ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.deb
+Checksums-Sha256:
+ 28ce6b24dbafb018360d50487bc48d47d1b7cffc273a415cfd297c380c13907a 9396 ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ b8fcf3a170548f173d3b255c61c204aff5a2042d6ce34f78d62bed7f970880b7 8922 ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.deb
+Files:
+ ab1529ff6cb85aadca7b29bdf534df68 9396 misc optional ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ 44dc00e68d53c67ed36975c93a2c1f4d 8922 misc optional ros-humble-moveit-common_2.11.0-2024.09.29.16.13_amd64.deb

@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-visualization
+Binary: ros-humble-moveit-ros-visualization
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.17.18
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-visualization - Components of MoveIt that offer visualization
+Changes:
+ ros-humble-moveit-ros-visualization (2.11.0-2024.09.29.17.18) jammy; urgency=high
+ .
+   * New implementation for computeCartesianPath() (#2916 <https://github.com/moveit/moveit2/issues/2916>)
+   * Contributors: Robert Haschke
+Checksums-Sha1:
+ 9106daf7c606e88b937a1a2f35401f8f117a1555 41801780 ros-humble-moveit-ros-visualization-dbgsym_2.11.0-2024.09.29.17.18_amd64.ddeb
+ 6465c9774581c98a65686b5d1940c4aae6c9264f 32542 ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.buildinfo
+ 30af91e7bcf5dc1b6fe420c3fc1b2d2af613ec89 701586 ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.deb
+Checksums-Sha256:
+ bede4fc39615d336ceb6edc81857ed5cfc16bd31f4d4d3c781b88c69377b109f 41801780 ros-humble-moveit-ros-visualization-dbgsym_2.11.0-2024.09.29.17.18_amd64.ddeb
+ 7e8f8a894968b8863b8bfb08965e6093286f3a4d0dcb1dda04b8aba7acdb0df7 32542 ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.buildinfo
+ 60bd83359f6d502003e8f88feaa6e0f8fb7cfe8ab6ef3b407282a94a6c5c4270 701586 ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.deb
+Files:
+ c21a03cf4979376073ac5d194d7b0889 41801780 debug optional ros-humble-moveit-ros-visualization-dbgsym_2.11.0-2024.09.29.17.18_amd64.ddeb
+ a432ab1960cada40265fad01e997dddc 32542 misc optional ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.buildinfo
+ 01eb60969b6e347ecbbe6b9e4db86ea8 701586 misc optional ros-humble-moveit-ros-visualization_2.11.0-2024.09.29.17.18_amd64.deb

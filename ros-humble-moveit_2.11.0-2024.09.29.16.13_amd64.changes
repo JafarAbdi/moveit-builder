@@ -1,0 +1,24 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit
+Binary: ros-humble-moveit
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.16.13
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit - Meta package that contains all essential packages of MoveIt 2
+Changes:
+ ros-humble-moveit (2.11.0-2024.09.29.16.13) jammy; urgency=high
+Checksums-Sha1:
+ c2c2352aba98fbe382e4c1928111896651834387 9169 ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ 77e52e0e1dff51dd0391f5485d5bdbbbbd83fa87 13538 ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.deb
+Checksums-Sha256:
+ 5789f2b23ba5e0f1f3a492499b4e0f7f4b6b79eff660e6cf04b59d4687cdd12b 9169 ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ 6ef9aa83b2c4f8da7fbaa875cfe45f5743917280b2be7d9f748e93cc89e42781 13538 ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.deb
+Files:
+ 57f8b57c6535da2c841b3266d8637dee 9169 misc optional ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.buildinfo
+ 02f7d79a8ab0c4f151cf114affc15a01 13538 misc optional ros-humble-moveit_2.11.0-2024.09.29.16.13_amd64.deb

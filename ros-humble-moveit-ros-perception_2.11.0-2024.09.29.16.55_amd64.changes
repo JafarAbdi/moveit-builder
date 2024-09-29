@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 16 Sep 2024 00:00:00 -0000
+Source: ros-humble-moveit-ros-perception
+Binary: ros-humble-moveit-ros-perception
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 2.11.0-2024.09.29.16.55
+Distribution: jammy
+Urgency: high
+Maintainer: Henning Kayser <henningkayser@picknik.ai>
+Changed-By: Henning Kayser <henningkayser@picknik.ai>
+Description:
+ ros-humble-moveit-ros-perception - Components of MoveIt connecting to perception
+Changes:
+ ros-humble-moveit-ros-perception (2.11.0-2024.09.29.16.55) jammy; urgency=high
+ .
+   * Replace obsolete header (#2978 <https://github.com/moveit/moveit2/issues/2978>)
+   * Fixed segmentation fault in depth_image_octomap_updater (#2963 <https://github.com/moveit/moveit2/issues/2963>)
+   * Fix deprecation warning (#2922 <https://github.com/moveit/moveit2/issues/2922>)
+   * Contributors: CihatAltiparmak, Robert Haschke, Sebastian Jahr
+Checksums-Sha1:
+ f9bb5c9fe3acdfdb5fc8a0e94315f103f441d9a5 9561452 ros-humble-moveit-ros-perception-dbgsym_2.11.0-2024.09.29.16.55_amd64.ddeb
+ 7a5612fc4dea03cfb7c5226297c66d6dd7075fb3 37934 ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.buildinfo
+ 49ed40dcacd223e97e121eec00e48150377f8dcd 335652 ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.deb
+Checksums-Sha256:
+ a5e2a4eb6b22b661584179599293732b397efe3ca160ea5deb0a999e1181c3d8 9561452 ros-humble-moveit-ros-perception-dbgsym_2.11.0-2024.09.29.16.55_amd64.ddeb
+ a5f122cfe2f168ff8c8b9bb16b89cd811ed806f933190ba6fccdc99e81a835a9 37934 ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.buildinfo
+ 14adb766e24372c51989afe7ada06b56759d337a1e469481312b0a77e0ecf0a8 335652 ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.deb
+Files:
+ 6d8c88b414b66c79fc913002d9ad2737 9561452 debug optional ros-humble-moveit-ros-perception-dbgsym_2.11.0-2024.09.29.16.55_amd64.ddeb
+ dce7cfb468e6a3913d561f92a4ec3888 37934 misc optional ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.buildinfo
+ c8bac2638bf753393455d46abe16b0f3 335652 misc optional ros-humble-moveit-ros-perception_2.11.0-2024.09.29.16.55_amd64.deb
